@@ -16,7 +16,7 @@ class BootboxjsAsset extends AssetBundle
     public $sourcePath = '@vendor/life2016/yii2-bootboxjs/assets';
 
     public $js = [
-        'js/bootbox.min.js',
+        'bootbox/bootbox.min.js',
     ];
     
     /**

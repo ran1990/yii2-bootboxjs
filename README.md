@@ -4,3 +4,26 @@ Please see http://bootboxjs.com for full usage instructions, or head over to htt
 the original writeup about the project.
 
 
+# Installation
+
+To install, either run
+
+```
+$ php composer.phar require life2016/yii2-bootboxjs "*"
+```
+
+or add
+
+```
+"life2016/yii2-bootboxjs": "*"
+```
+
+or add
+
+```
+"composer require life2016/yii2-bootboxjs": "*"
+```
+
+
+to the ```require``` section of your `composer.json` file.
+
